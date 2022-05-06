@@ -1,5 +1,5 @@
 # Goruntu-Isleme-OpenCV-Mediapipe
-
+### Görüntü işleme sistemi ile Bilgisayar kamerasını kullanarak  sistemin ses seviyesini kontrol etme.
 ## OpenCV Nedir?
 
 OpenCV (Open Source Computer Vision) açık kaynak kodlu görüntü işleme kütüphanesidir. 1999 yılında İntel tarafından geliştirilmeye başlanmış daha sonra Itseez, Willow, Nvidia, AMD,  Google gibi şirket ve toplulukların desteği ile gelişim süreci devam etmektedir.
